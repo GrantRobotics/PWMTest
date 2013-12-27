@@ -10,8 +10,13 @@
 
 int rightJoystickX;
 int leftJoystickY;
-//Max rightJoystickX = 
-//Max leftJoystickY = 
+//Max rightJoystickX = 546 
+//Low rightJoystickX = - 521
+//rightJoystickX total = 1067
+
+//Max leftJoystickY = 571
+//Low leftJoystickY = - 517
+//leftJoystickY total = 1088
 void setup() {
 
 pinMode(6, INPUT); // Set our input pins as such
